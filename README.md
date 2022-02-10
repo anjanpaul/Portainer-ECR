@@ -49,7 +49,7 @@ Then Create default user and password.
 AND GOOD TO GO :)
 
 ## AWS ECR
-
+```
 Install AWS cli
 Create an iam role for an user
 Then type 
@@ -64,3 +64,4 @@ to see how to push just click on view push
 
 and good to go
 
+```
