@@ -47,3 +47,20 @@ https://YourIp:9443
 Then Create default user and password. 
 
 AND GOOD TO GO :)
+
+## AWS ECR
+
+Install AWS cli
+Create an iam role for an user
+Then type 
+aws configure on your terminal
+it will give a shell to give aws access key and aws secret key
+the go to ecr 
+create a repo
+first you have to decide what you will do? the repository will be private or public
+then give a name of your repo
+then create repo
+to see how to push just click on view push
+
+and good to go
+
