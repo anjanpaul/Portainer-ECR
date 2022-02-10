@@ -40,10 +40,6 @@ https://YourIp:9443
 ```
 ![alt text](https://github.com/anjanpaul/Portainer-ECR/blob/main/Output/Screenshot%202022-02-10%20at%2011.27.41%20AM.png)
 
-## Portainer Admin Panel
-
-![alt text](https://github.com/anjanpaul/Portainer-ECR/blob/main/Output/portainer%20admin%20panel.png)
-
 ## Dashboard
 
 ![alt text](https://github.com/anjanpaul/Portainer-ECR/blob/main/Output/Dashboard.png)
