@@ -1,7 +1,7 @@
 # Install Portainer
 
 ## Community Edition 
-![alt text]()
+![alt text](https://github.com/anjanpaul/Portainer-ECR/blob/main/Output/Screenshot%202022-02-10%20at%2011.11.37%20AM.png)
 
 Set up a new Portainer Server installation for Docker Swarm
 
@@ -38,15 +38,15 @@ Now that the installation is complete, you can log into your Portainer Server in
 https://YourIp:9443
 
 ```
-![alt text]()
+![alt text](https://github.com/anjanpaul/Portainer-ECR/blob/main/Output/Screenshot%202022-02-10%20at%2011.27.41%20AM.png)
 
 ## Portainer Admin Panel
 
-![alt text]()
+![alt text](https://github.com/anjanpaul/Portainer-ECR/blob/main/Output/portainer%20admin%20panel.png)
 
 ## Dashboard
 
-![alt text]()
+![alt text](https://github.com/anjanpaul/Portainer-ECR/blob/main/Output/Dashboard.png)
 
 Then Create default user and password. 
 
